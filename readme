@@ -1,0 +1,17 @@
+All optional extras were included.
+
+I think that I have done quite a decent job and this
+was a really interesting assignment. 
+
+
+
+The results for the third program.
+----------------------------------
+
+When using the provided erl program with "War and Peace"
+Load time: 36.68 seconds
+Porcessing time: 31.81 seconds
+
+Using the modified version
+Load time: 38.31 seconds
+Porcessing time: 8.23 seconds
